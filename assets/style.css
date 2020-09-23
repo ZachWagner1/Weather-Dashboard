@@ -28,3 +28,7 @@
 #five-day-container {
     justify-content: space-between;
 }
+
+#forecast-container {
+    display: none;
+}
